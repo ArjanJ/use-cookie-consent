@@ -95,6 +95,7 @@
     "form-data": "2.5.6"
   },
   "resolutions": {
+    "@babel/traverse": "7.23.2",
     "form-data": "2.5.6"
   },
   "husky": {
